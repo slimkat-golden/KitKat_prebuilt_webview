@@ -1,4 +1,4 @@
-# android_kitkat_prebuilt_webview
+# SlimKAT_prebuilt_webview
 Prebuilt Webview for SlimKAT (SlimROMS, branch kk4.4, based on Android 4.4)
 
 In Android 4.4 (KitKat), Webview is built from source within the build tree and part of the OS.
